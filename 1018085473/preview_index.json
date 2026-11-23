@@ -1,6 +1,7 @@
 {
   "qq_number": "3454485038",
   "group_number": "1018085473",
+  "updated_at": "2026-11-23T14:15:27+00:00",
   "skins": [
     {
       "name": "懿懿懿の甜度大作战脆脆",
@@ -8,7 +9,13 @@
       "thumb": "懿懿懿の甜度大作战闷闷.bds_py_26_light_thumb.png",
       "full": "懿懿懿の甜度大作战闷闷.bds_py_26_light_thumb.png",
       "file_id": "51647359"
+    },
+    {
+      "name": "懿懿懿の甜度大作战闷闷",
+      "file": "懿懿懿の甜度大作战闷闷.bdi",
+      "thumb": "懿懿懿の甜度大作战闷闷.bdi_py_26_light_thumb.png",
+      "full": "懿懿懿の甜度大作战闷闷.bdi_py_26_light_thumb.png",
+      "file_id": "51986887"
     }
-  ],
-  "updated_at": "2026-11-23T14:10:21+00:00"
+  ]
 }
