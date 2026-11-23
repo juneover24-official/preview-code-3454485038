@@ -1,7 +1,7 @@
 {
   "qq_number": "3454485038",
   "group_number": "1018085473",
-  "updated_at": "2026-11-23T14:33:16+00:00",
+  "updated_at": "2026-11-23T14:33:55+00:00",
   "skins": [
     {
       "name": "懿懿懿の甜度大作战脆脆",
@@ -37,6 +37,13 @@
       "thumb": "懿懿懿の甜度大作战脆脆无漂浮.bds_py_26_light_thumb.png",
       "full": "懿懿懿の甜度大作战脆脆无漂浮.bds_py_26_light_thumb.png",
       "file_id": "52011308"
+    },
+    {
+      "name": "懿懿懿の甜度大作战脆脆无漂浮",
+      "file": "懿懿懿の甜度大作战脆脆无漂浮.bdi",
+      "thumb": "懿懿懿の甜度大作战脆脆无漂浮.bdi_py_26_light_thumb.png",
+      "full": "懿懿懿の甜度大作战脆脆无漂浮.bdi_py_26_light_thumb.png",
+      "file_id": "51986875"
     }
   ]
 }
